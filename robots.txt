@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snowball.dialex.chat/sitemap.xml
